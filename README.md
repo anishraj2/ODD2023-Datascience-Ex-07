@@ -187,3 +187,5 @@ plt.show()
 ![FINAL SET OF FEATURE:](./images/16.png)
 ### EMBEDDED METHOD:
 ![EMBEDDED METHOD:](./images/17.png)
+# RESULT
+Thus,various feature selection methods have been performed using the given dataset successfully.
